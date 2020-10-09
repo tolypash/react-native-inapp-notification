@@ -1,0 +1,35 @@
+{
+  "name": "react-native-simple-notification",
+  "version": "1.0.0",
+  "description": "A simple yet elegant notification component to alert users in the app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolypash/react-native-simple-notification.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react",
+    "native",
+    "notification",
+    "alert",
+    "notify"
+  ],
+  "author": "tolypash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tolypash/react-native-simple-notification/issues"
+  },
+  "homepage": "https://github.com/tolypash/react-native-simple-notification#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.63.0"
+  },
+  "dependencies": {
+    "expo-constants": "^9.2.0",
+    "galio-framework": "^0.7.1"
+  }
+}

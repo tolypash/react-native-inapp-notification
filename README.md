@@ -1,4 +1,5 @@
-# react-native-inapp-notification
+# rn-simple-notification
+### react-native-simple-notification
 A simple yet elegant notification component to alert users in the app.
 
 
@@ -15,7 +16,7 @@ A simple yet elegant notification component to alert users in the app.
 
 Import the Notification component
 ```
-import Notification from "react-native-inapp-notification"
+import Notification from "rn-simple-notification"
 ```
 
 Add the ```<Notification>``` component to the parent view container, prefferably and give it a ```ref```
@@ -76,7 +77,7 @@ setActive(value:boolean, time:number, logoURL:string, title:string, description:
 * [Expo-Constants](https://github.com/expo/expo-constants)
 
 # Installation
-```npm install react-native-inapp-notification```
+```npm install rn-simple-notification```
 
 If you're installing this in a [bare React Native app](https://docs.expo.io/introduction/managed-vs-bare/), you should also follow these [additional installation instructions](https://github.com/expo/expo/tree/master/packages/expo-constants).
 

@@ -1,5 +1,5 @@
 {
-  "name": "react-native-simple-notification",
+  "name": "react-native-inapp-notification",
   "version": "1.0.0",
   "description": "A simple yet elegant notification component to alert users in the app",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tolypash/react-native-simple-notification.git"
+    "url": "git+https://github.com/tolypash/react-native-inapp-notification.git"
   },
   "keywords": [
     "react",
@@ -22,9 +22,9 @@
   "author": "tolypash",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tolypash/react-native-simple-notification/issues"
+    "url": "https://github.com/tolypash/react-native-inapp-notification/issues"
   },
-  "homepage": "https://github.com/tolypash/react-native-simple-notification#readme",
+  "homepage": "https://github.com/tolypash/react-native-inapp-notification#readme",
   "devDependencies": {
     "metro-react-native-babel-preset": "^0.63.0"
   },

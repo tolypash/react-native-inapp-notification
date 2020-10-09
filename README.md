@@ -2,6 +2,7 @@
 ### react-native-simple-notification
 A simple yet elegant notification component to alert users in the app.
 
+![Preview](https://media.giphy.com/media/nf75HrBRwsOM6UNV0A/giphy.gif)
 
 # Features
 
